@@ -50,3 +50,38 @@ Advanced-Face-Detection/
 ├── requirements.txt     # Dependencies
 └── README.md            # Project documentation
     
+1. Clone the repository
+git clone https://github.com/your-username/advanced-face-detection.git
+cd advanced-face-detection
+2. Install dependencies
+pip install -r requirements.txt
+3. Run face detection
+python main.py
+Optional GUI Version
+python gui.py
+
+💡 Use Cases
+Smart surveillance systems
+
+Classroom face monitoring
+
+Biometric attendance
+
+Emotion tracking (future scope)
+
+Identity verification
+
+🛠️ Future Enhancements
+Face recognition and labeling
+
+Emotion detection from face
+
+Gender and age classification
+
+Integration with databases for attendance
+
+Web dashboard using Flask or React
+
+🤝 Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
